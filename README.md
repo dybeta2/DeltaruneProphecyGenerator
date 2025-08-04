@@ -83,22 +83,6 @@ No coding or graphic software needed.
 - 🤣 **Meme Makers** – Generate ironic or funny fantasy panels  
 - 📖 **Writers** – Add visual flair to fantasy stories or chapters
 
----
-
-## Target SEO Keywords (for Your Website)
-
-Optimize your site for these keywords to drive traffic:
-
-| Keyword                               | Intent                    |
-|---------------------------------------|---------------------------|
-| Deltarune Prophecy Generator          | Core tool keyword         |
-| Deltarune Prophecy Panel Generator    | Full branding keyword     |
-| create custom prophecy image          | Long-tail + action        |
-| fantasy text panel maker              | Creative tool             |
-| silhouette text overlay generator     | Visual/narrative usage    |
-| prophecy maker online                 | Commercial/informational  |
-
-Use them in your page titles, meta descriptions, and heading structure.
 
 ---
 
